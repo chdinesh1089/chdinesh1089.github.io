@@ -9,8 +9,8 @@ permalink: archive/217809-javascript/index.html
 
 ### Topics:
 
-* [nodeschool](52751nodeschool.html) (2 messages, latest: Dec 21 2019 at 11:20)
-* [hello](47413hello.html) (2 messages, latest: Dec 21 2019 at 11:07)
-* [stream events](95106streamevents.html) (1 message, latest: Dec 21 2019 at 11:05)
+* [nodeschool](nodeschool.html) (2 messages, latest: Dec 21 2019 at 11:20)
+* [hello](hello.html) (2 messages, latest: Dec 21 2019 at 11:07)
+* [stream events](stream.20events.html) (1 message, latest: Dec 21 2019 at 11:05)
 
-<hr><p>Last updated: Dec 29 2019 at 20:55 UTC</p>
+<hr><p>Last updated: Dec 29 2019 at 21:07 UTC</p>
