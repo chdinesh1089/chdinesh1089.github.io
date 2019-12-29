@@ -4,7 +4,7 @@ title: Zulip Chat Archive
 permalink: archive/213222-general/index.html
 ---
 
-## Stream: [general](http://127.0.0.1:4000/archive/213222-general/index.html)
+## Stream: [general](https://chdinesh1089.github.io/archive/213222-general/index.html)
 ---
 
 ### Topics:

@@ -4,7 +4,7 @@ title: Zulip Chat Archive
 permalink: archive/213224-python/index.html
 ---
 
-## Stream: [python](http://127.0.0.1:4000/archive/213224-python/index.html)
+## Stream: [python](https://chdinesh1089.github.io/archive/213224-python/index.html)
 ---
 
 ### Topics:

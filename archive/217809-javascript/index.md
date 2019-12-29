@@ -4,7 +4,7 @@ title: Zulip Chat Archive
 permalink: archive/217809-javascript/index.html
 ---
 
-## Stream: [javascript](http://127.0.0.1:4000/archive/217809-javascript/index.html)
+## Stream: [javascript](https://chdinesh1089.github.io/archive/217809-javascript/index.html)
 ---
 
 ### Topics:
