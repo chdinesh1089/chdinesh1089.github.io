@@ -1,10 +1,10 @@
 ---
 layouts: archive
 title: Zulip Chat Archive
-permalink: default/stream/217915-data-structures/index.html
+permalink: narrow/stream/217915-data-structures/index.html
 ---
 
-## Stream: [data structures](https://chdinesh1089.github.io/default/stream/217915-data-structures/index.html)
+## Stream: [data structures](https://chdinesh1089.github.io/narrow/stream/217915-data-structures/index.html)
 ---
 
 ### Topics:

@@ -1,7 +1,7 @@
 ---
 layouts: archive
 title: Zulip Chat Archive
-permalink: default/index.html
+permalink: narrow/index.html
 ---
 
 ---

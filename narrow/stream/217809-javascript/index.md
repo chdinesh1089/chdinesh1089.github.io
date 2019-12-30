@@ -1,10 +1,10 @@
 ---
 layouts: archive
 title: Zulip Chat Archive
-permalink: default/stream/217809-javascript/index.html
+permalink: narrow/stream/217809-javascript/index.html
 ---
 
-## Stream: [javascript](https://chdinesh1089.github.io/default/stream/217809-javascript/index.html)
+## Stream: [javascript](https://chdinesh1089.github.io/narrow/stream/217809-javascript/index.html)
 ---
 
 ### Topics:

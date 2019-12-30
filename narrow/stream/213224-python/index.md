@@ -1,10 +1,10 @@
 ---
 layouts: archive
 title: Zulip Chat Archive
-permalink: default/stream/213224-python/index.html
+permalink: narrow/stream/213224-python/index.html
 ---
 
-## Stream: [python](https://chdinesh1089.github.io/default/stream/213224-python/index.html)
+## Stream: [python](https://chdinesh1089.github.io/narrow/stream/213224-python/index.html)
 ---
 
 ### Topics:
