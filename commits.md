@@ -8,4 +8,4 @@
 * https://github.com/zulip/zulip/commit/c2e0c492f8e70c3723bf7010110bf63f0eaa8e72
 * https://github.com/zulip/zulip/commit/ef876ff4c777a75f95598e9b2dbb6d93c8989dc0
 
-The above are not there in https://github.com/zulip/zulip/commits?author=chdinesh1089 as I didn't set proper author deatails.
+The above are not there in https://github.com/zulip/zulip/commits?author=chdinesh1089 as I didn't set proper author deatails earlier. The others can be found at https://github.com/zulip/zulip/commits?author=chdinesh1089
